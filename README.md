@@ -115,8 +115,8 @@ For more information on syncing forks [read this article from Github](https://he
   - 5
 - How do I track my progress to get an awesome shirt from Hacktoberfest 2019?
   - go to : [https://hacktoberfest.digitalocean.com/profile](https://hacktoberfest.digitalocean.com/stats/) (Scroll down to Check Out Your Own Stats).
-- What is the duration of Hacktoberfest 2018?
-  - It is from October 1st till October 31st, 2018.
+- What is the duration of Hacktoberfest 2019?
+  - It is from October 1st till October 31st, 2019.
 - What is the event for?
   - For the open source community engagement.
 
