@@ -80,7 +80,6 @@ To pull any new changes from your parent repo simply run.
 git merge upstream/master
 ```
 
-```[English]```
 This will give you any eventual conflicts and allow you to easily solve them in your repo. It's a good idea to use it frequently in between your own commits to make sure that your repo is up to date with its parent.
 
 For more information on syncing forks [read this article from Github](https://help.github.com/articles/syncing-a-fork/).
@@ -112,9 +111,9 @@ For more information on syncing forks [read this article from Github](https://he
   - Because we only know JavaScript and suck at servers. We use [now](https://zeit.co/now) instead.
 - Should I come closer to the text saying 'Don't come closer' on the left side of the home tab?
   - Nope.
-- How many pull request (PR) must be made, if I can get an awesome shirt from Hacktoberfest 2018?
+- How many pull request (PR) must be made, if I can get an awesome shirt from Hacktoberfest 2019?
   - 5
-- How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
+- How do I track my progress to get an awesome shirt from Hacktoberfest 2019?
   - go to : [https://hacktoberfest.digitalocean.com/profile](https://hacktoberfest.digitalocean.com/stats/) (Scroll down to Check Out Your Own Stats).
 - What is the duration of Hacktoberfest 2018?
   - It is from October 1st till October 31st, 2018.
