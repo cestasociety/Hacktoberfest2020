@@ -1,4 +1,4 @@
-# Hacktoberfest ([Live Website](https://hacktoberfest.lingonsaft.com/)) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# Hacktoberfest ([Live Website](https://cesta-society.github.io/Hacktoberfest//)) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
 This is a beginner-friendly project to help you get started with your
