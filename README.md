@@ -66,14 +66,14 @@ An easy way to avoid conflicts is to add an 'upstream' for your git repo, as oth
 git remote add upstream https://github.com/lingonsaft/hacktoberfest
 ```
 
- You can verify that the new remote has been added by typing.
+ You can verify that the new remote has been added by typing:
 
 
 ```terminal
 git remote -v
 ```
 
-To pull any new changes from your parent repo simply run.
+To pull any new changes from your parent repo simply run:
 
 
 ```terminal
@@ -97,12 +97,12 @@ For more information on syncing forks [read this article from Github](https://he
 
 - Who can contribute?
 
-  - Anyone with a github account and who is signed up for [hacktoberfest](https://hacktoberfest.digitalocean.com/) :).
+  - Anyone with a GitHub account and who is signed up for [hacktoberfest](https://hacktoberfest.digitalocean.com/) :).
 
 - Are you getting paid for this?
 
   - Sadly no. But we think we should. This is 100% unofficial and we do it for fun.
-
+  
 - Who are you and why are you doing this?
   - We are two programmers from India [Shashank](https://github.com/ironbatshashank)
   and [Ankit](https://github.com/ankiitsingh). We are doing this because we love Open
@@ -112,12 +112,12 @@ For more information on syncing forks [read this article from Github](https://he
 - Should I come closer to the text saying 'Don't come closer' on the left side of the home tab?
   - Nope.
 - How many pull request (PR) must be made, if I can get an awesome shirt from Hacktoberfest 2019?
-  - 5
+  - 4
 - How do I track my progress to get an awesome shirt from Hacktoberfest 2019?
-  - go to : [https://hacktoberfest.digitalocean.com/profile](https://hacktoberfest.digitalocean.com/stats/) (Scroll down to Check Out Your Own Stats).
+  - Go to [https://hacktoberfest.digitalocean.com/profile](https://hacktoberfest.digitalocean.com/stats/) and scroll down to 'Check Out Your Own Stats'.
 - What is the duration of Hacktoberfest 2019?
   - It is from October 1st till October 31st, 2019.
 - What is the event for?
-  - For the open source community engagement.
+  - ```Hacktoberfest® is open to everyone in our global community. Whether you’re a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge. ``` - copied over from hacktoberfest.digitalocean.com
 
 ### *We will do our best to merge as much as possible from everyone. However, time is limited and the merge conflicts are horrible ❤️*
